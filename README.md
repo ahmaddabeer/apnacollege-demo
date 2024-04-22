@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is My First Git Repositery
 <br>
-Auther Is Dabeer
+Auther Is Dabeer Ahmad
